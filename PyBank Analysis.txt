@@ -1,0 +1,7 @@
+---------Financial Analysis--------
+
+Total Months: 86
+Net Total Profits/Losses: $38,382,578
+Average change: $446,309.05
+Greatest Increase in P&L: Feb-2012, $1170593
+Greatest Decrease in P&L: Sep-2013, ($1196225)
